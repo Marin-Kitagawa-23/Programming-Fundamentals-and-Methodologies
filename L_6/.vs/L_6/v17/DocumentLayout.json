@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\stepc\\source\\repos\\L_6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40857E39-98EC-494E-AF2E-2B9319C7E063}|L_6\\L_6.vcxproj|C:\\Users\\stepc\\source\\repos\\L_6\\L_6\\Stepckin_19.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{40857E39-98EC-494E-AF2E-2B9319C7E063}|L_6\\L_6.vcxproj|solutionrelative:L_6\\Stepckin_19.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Stepckin_19.cpp",
+              "DocumentMoniker": "C:\\Users\\stepc\\source\\repos\\L_6\\L_6\\Stepckin_19.cpp",
+              "RelativeDocumentMoniker": "L_6\\Stepckin_19.cpp",
+              "ToolTip": "C:\\Users\\stepc\\source\\repos\\L_6\\L_6\\Stepckin_19.cpp",
+              "RelativeToolTip": "L_6\\Stepckin_19.cpp",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAuwFMAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-06T11:57:23.691Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

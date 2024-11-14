@@ -1,0 +1,3 @@
+﻿  SafonovStepkin.cpp
+C:\Users\stepc\Downloads\SafonovStepkin.cpp(52,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Test_14_november.vcxproj -> C:\Users\stepc\source\repos\Test_14_november\x64\Debug\Test_14_november.exe
