@@ -1,0 +1,4 @@
+﻿  Stepkin_25.cpp
+C:\Users\stepc\source\repos\Konakh_L3\Konakh_L3\Stepkin_25.cpp(68,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\stepc\source\repos\Konakh_L3\Konakh_L3\Stepkin_25.cpp(90,40): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+  Konakh_L3.vcxproj -> C:\Users\stepc\source\repos\Konakh_L3\x64\Debug\Konakh_L3.exe

@@ -1,0 +1,5 @@
+﻿  Stepckin_25.cpp
+C:\Users\stepc\source\repos\L_3\L_3\Stepckin_25.cpp(239,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\stepc\source\repos\L_3\L_3\Stepckin_25.cpp(252,19): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\stepc\source\repos\L_3\L_3\Stepckin_25.cpp(255,40): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+  L_3.vcxproj -> C:\Users\stepc\source\repos\L_3\x64\Debug\L_3.exe
