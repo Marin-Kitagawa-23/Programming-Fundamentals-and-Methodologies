@@ -3,6 +3,13 @@
   "WorkspaceRootPath": "C:\\Users\\stepc\\source\\repos\\L_4\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\stepc\\Downloads\\Stepkin_30 (1).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{326FE421-DEBC-457B-9257-159137258C71}|L_4\\L_4.vcxproj|C:\\Users\\stepc\\source\\repos\\L_4\\L_4\\Stepkin_30.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{326FE421-DEBC-457B-9257-159137258C71}|L_4\\L_4.vcxproj|solutionrelative:L_4\\Stepkin_30.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\stepc\\Downloads\\Stepkin_30.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -18,12 +25,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Stepkin_30 (1).cpp",
+              "DocumentMoniker": "C:\\Users\\stepc\\Downloads\\Stepkin_30 (1).cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\Stepkin_30 (1).cpp",
+              "ToolTip": "C:\\Users\\stepc\\Downloads\\Stepkin_30 (1).cpp",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\Stepkin_30 (1).cpp",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-10T07:48:38.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Stepkin_30.cpp",
+              "DocumentMoniker": "C:\\Users\\stepc\\source\\repos\\L_4\\L_4\\Stepkin_30.cpp",
+              "RelativeDocumentMoniker": "L_4\\Stepkin_30.cpp",
+              "ToolTip": "C:\\Users\\stepc\\source\\repos\\L_4\\L_4\\Stepkin_30.cpp",
+              "RelativeToolTip": "L_4\\Stepkin_30.cpp",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAowGkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-10T07:47:40.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Stepkin_30.cpp",
               "DocumentMoniker": "C:\\Users\\stepc\\Downloads\\Stepkin_30.cpp",
               "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\Stepkin_30.cpp",
-              "ToolTip": "C:\\Users\\stepc\\Downloads\\Stepkin_30.cpp*",
-              "RelativeToolTip": "..\\..\\..\\Downloads\\Stepkin_30.cpp*",
-              "ViewState": "AgIAAEkAAAAAAAAAAAAowGgAAAAKAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\stepc\\Downloads\\Stepkin_30.cpp",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\Stepkin_30.cpp",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAowFUAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-09T08:33:33.865Z",
               "EditorCaption": ""
