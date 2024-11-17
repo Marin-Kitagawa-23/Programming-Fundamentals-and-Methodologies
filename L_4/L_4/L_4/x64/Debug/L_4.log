@@ -1,3 +1,0 @@
-﻿  Stepkin_30.cpp
-C:\Users\stepc\source\repos\L_4\L_4\Stepkin_30.cpp(11,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-  L_4.vcxproj -> C:\Users\stepc\source\repos\L_4\L_4\x64\Debug\L_4.exe
