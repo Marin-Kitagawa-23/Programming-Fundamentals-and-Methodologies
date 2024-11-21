@@ -63,6 +63,12 @@ int main() {
         }
     }
 
+    //if (K > word_count.size()) {
+    //    cout << "There is not answer" << endl;
+    //    cout << "Частотный словарь не был записан в файл " << endl;
+    //    return 0;
+    //}
+
     input_file.close();
 
     // Формируем вектор для сортировки
@@ -72,6 +78,11 @@ int main() {
             sorted_words.push_back(entry);
         }
     }
+    //if (sorted_words[0].first.size() == 0) {
+    //    cout << "There is not answer" << endl;
+    //    cout << "Частотный словарь не был записан в файл " <<  endl;
+    //    return 0;
+    //}
 
     // Сортировка по убыванию частоты
     sort(sorted_words.begin(), sorted_words.end(), [](const pair<string, int>& a, const pair<string, int>& b) {
@@ -87,7 +98,14 @@ int main() {
 
     // Записываем результат в файл
     for (const auto& entry : sorted_words) {
+        if (entry.first.size() != 0)
         output_file << entry.first << " " << entry.second << endl;
+    }
+
+    output_file.seekp(0, ios::end);
+    if (output_file.tellp() == 0) {
+        output_file.seekp(0, ios::beg);
+        output_file << "Нет достаточного количества повторений";
     }
 
     output_file.close();

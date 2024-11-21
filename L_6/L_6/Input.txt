@@ -1,1 +1,22 @@
-Abc bca....abc aa ???? aa bbc aa aa bb bb bb
+#include <iostream>
+#include <fstream>
+#include <string>
+#include <unordered_map>
+#include <vector>
+#include <algorithm>
+#include <cctype>
+
+using namespace std;
+
+// Функция для преобразования строки в нижний регистр
+string to_lower(const string& str) {
+    string result = str;
+    transform(result.begin(), result.end(), result.begin(), ::tolower);
+    return result;
+}
+
+// Функция для проверки, состоит ли строка только из латинских букв
+bool is_word(const string& str) {
+    for (char c : str) {
+        if (!isalpha(c) || !isalpha(static_cast<unsigned char>(c))) {
+            return false;
