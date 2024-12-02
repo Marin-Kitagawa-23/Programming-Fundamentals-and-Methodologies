@@ -1,0 +1,6 @@
+﻿  UsualDouble.cpp
+C:\Users\stepc\source\repos\usial_double_numbers\usial_double_numbers\UsualDouble.cpp(227,10): warning C4129: "-": нераспознанная escape-последовательность символов
+C:\Users\stepc\source\repos\usial_double_numbers\usial_double_numbers\UsualDouble.cpp(227,10): warning C4129: "/": нераспознанная escape-последовательность символов
+C:\Users\stepc\source\repos\usial_double_numbers\usial_double_numbers\UsualDouble.cpp(228,11): warning C4129: "-": нераспознанная escape-последовательность символов
+C:\Users\stepc\source\repos\usial_double_numbers\usial_double_numbers\UsualDouble.cpp(242,13): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  usial_double_numbers.vcxproj -> C:\Users\stepc\source\repos\usial_double_numbers\x64\Debug\usial_double_numbers.exe
